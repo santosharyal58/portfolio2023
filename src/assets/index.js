@@ -5,7 +5,7 @@ import worldmap from './backgrounds/world-map.png';
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
-import shaq from './personal/santosh.png';
+import santosh from './personal/santosh.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -55,7 +55,7 @@ export {
   worldmap,
   logo,
   logotext,
-  shaq,
+santosh,
   backend,
   ux,
   frontend,
