@@ -22,10 +22,6 @@ import {
   math,
   movie,
   nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
   microverse,
 } from '../assets';
 
@@ -46,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
+    title: 'Web Development',
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'Search Engine Optimisation',
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
+    title: 'Ecommerce',
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Cloud Solutions',
     icon: prototyping,
   },
 ];
@@ -124,30 +120,23 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
-    icon: coverhunt,
-    iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
-  },
-  {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Intern',
+    company_name: 'Splendour Group',
     icon: microverse,
     iconBg: '#333333',
     date: 'Mar 2022 - May 2022',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
+    title: 'Frontend / Wordpress Developer',
+    company_name: 'Splendour Group',
+    icon: microverse,
     iconBg: '#333333',
     date: 'May 2022 - Oct 2022',
   },
   {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
+    title: 'Web Developer',
+    company_name: 'Evertech Digital',
+    icon: microverse,
     iconBg: '#333333',
     date: 'Sep 2022 - Present',
   },
@@ -156,8 +145,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Project 1',
+    description: 'updating soon..',
     tags: [
       {
         name: 'react',
@@ -173,14 +162,14 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    repo: 'https://github.com/santosharyal58',
+    demo: 'https://github.com/santosharyal58',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Project 2',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'Updating soon..',
     tags: [
       {
         name: 'react',
@@ -196,13 +185,13 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    repo: 'https://github.com/santosharyal58',
+    demo: 'https://github.com/santosharyal58',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'Project 3',
+    description: 'Updating soon..',
     tags: [
       {
         name: 'nextjs',
@@ -218,13 +207,13 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    repo: 'https://github.com/santosharyal58',
+    demo: 'https://github.com/santosharyal58',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'Project 4',
+    description: `Updating soon..`,
     tags: [
       {
         name: 'nextjs',
@@ -240,14 +229,14 @@ const projects = [
       },
     ],
     image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    repo: 'https://github.com/santosharyal58',
+    demo: 'https://github.com/santosharyal58',
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'Project 5',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'Updating soon...',
     tags: [
       {
         name: 'nextjs',
@@ -263,8 +252,8 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    repo: 'https://github.com/santosharyal58',
+    demo: 'https://github.com/santosharyal58',
   },
 ];
 

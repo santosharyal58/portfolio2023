@@ -79,6 +79,10 @@
   display: block;
 }
 
+.bottom-fix{
+  bottom:-7vw;
+}
+
 .vertical-timeline.vertical-timeline-custom-line::before {
   background: rgb(66, 66, 66);
   background: linear-gradient(
