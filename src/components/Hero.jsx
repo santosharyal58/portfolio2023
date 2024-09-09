@@ -46,8 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Elevating ideas through <br className="sm:block hidden" />
-              code
+            From code to cloud: Elevating web experiences
             </p>
           </div>
           <div

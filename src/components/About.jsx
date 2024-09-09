@@ -37,10 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I am a Full Stack Developer with extensive experience in building scalable web applications and optimizing digital solutions.
-        Proficient in React.js, Docker, WordPress, and SEO, 
-        I have developed custom websites, enhanced e-commerce platforms, and driven traffic growth.
-         I am passionate about creating user-focused digital experiences and continually advancing my skills to deliver impactful solutions.
+        A high performing Web Developer with extensive experience in building scalable web applications and optimizing digital solutions. Proficient in Wordpress, React.js and Cloud Soluions, I have developed webapps and e-commerce platforms across various business domains. Currently, I am driven towards expanding my expertise in cloud services such as AWS, Azure, Docker, and Kubernetes to streamline deployment processes, enhance application scalability, and bring out innovative solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
