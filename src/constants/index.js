@@ -145,7 +145,7 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'Project 1',
+    name: 'Photo of the Day App',
     description: 'updating soon..',
     tags: [
       {
@@ -167,7 +167,7 @@ const projects = [
   },
   {
     id: 'project-2',
-    name: 'Project 2',
+    name: 'Ready Go Prompts',
     description:
       'Updating soon..',
     tags: [
@@ -176,85 +176,18 @@ const projects = [
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'firebase',
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'tailwind',
         color: 'pink-text-gradient',
       },
     ],
     image: leaderboard,
     repo: 'https://github.com/santosharyal58',
     demo: 'https://github.com/santosharyal58',
-  },
-  {
-    id: 'project-3',
-    name: 'Project 3',
-    description: 'Updating soon..',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: math,
-    repo: 'https://github.com/santosharyal58',
-    demo: 'https://github.com/santosharyal58',
-  },
-  {
-    id: 'project-4',
-    name: 'Project 4',
-    description: `Updating soon..`,
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: movie,
-    repo: 'https://github.com/santosharyal58',
-    demo: 'https://github.com/santosharyal58',
-  },
-  {
-    id: 'project-5',
-    name: 'Project 5',
-    description:
-      'Updating soon...',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: nyeusi,
-    repo: 'https://github.com/santosharyal58',
-    demo: 'https://github.com/santosharyal58',
-  },
+  }
 ];
 
 export { services, technologies, experiences, projects };

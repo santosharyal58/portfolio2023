@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        A high performing Web Developer with extensive experience in building scalable web applications and optimizing digital solutions. Proficient in Wordpress, React.js and Cloud Soluions, I have developed webapps and e-commerce platforms across various business domains. Currently, I am driven towards expanding my expertise in cloud services such as AWS, Azure, Docker, and Kubernetes to streamline deployment processes, enhance application scalability, and bring out innovative solutions.
+        A web wizard with a knack for building high-performing, scalable apps and optimizing digital solutions—think of me as the tech world’s Swiss Army knife. Whether it's WordPress, React.js, or cloud solutions, I’ve crafted web apps and e-commerce platforms across industries. These days, I’m diving deeper into the cloud (don’t worry, I packed an umbrella!)— honing my skills in AWS, Azure, Docker, and Kubernetes to streamline deployments, turbocharge scalability, and conjure up some innovative magic along the way.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

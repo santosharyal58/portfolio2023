@@ -111,7 +111,7 @@ const ProjectCard = ({
 };
 
 const Projects = () => {
-  const [active, setActive] = useState('project-2');
+  const [active, setActive] = useState('project-1');
 
   return (
     <div className="-mt-[6rem]">
@@ -123,11 +123,7 @@ const Projects = () => {
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          These projects demonstrate my expertise with practical examples of
-          some of my work, including brief descriptions and links to code
-          repositories and live demos. They showcase my ability to tackle
-          intricate challenges, adapt to various technologies, and efficiently
-          oversee projects.
+          These projects serve as a hands-on reflection of my work, offering a snapshot of my technical range. Each one includes a brief overview along with links to both code repositories and live demos. Whether tackling complex challenges, seamlessly transitioning between diverse technologies, or managing project timelines with precision, these examples underscore my adaptability and problem-solving skills in real-world scenarios.
         </motion.p>
       </div>
 
