@@ -2,7 +2,7 @@ import bwmap from './backgrounds/bw-map.jpeg';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
-import logo from './logo/logo-black.png';
+import logo from './logo/logo-black.svg';
 import logotext from './logo/logo-text-black.png';
 
 import santosh from './personal/santosh.png';
